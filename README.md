@@ -2,8 +2,8 @@
 <h3 align="center">"Aspiring robot overlord with a passion for tinkering—designing in CATIA, coding in Python & C++, and wrangling hardware with Arduino and Raspberry Pi. When I'm not breaking circuits and debugging code, you can find me building smart systems, crafting PCBs, or simulating robots in Gazebo. All fueled by caffeine and curiosity, with a dash of 'it works on my machine' mentality."</h3>
 
 <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=attadasandeep2005&label=Profile%20views&color=0e75b6&style=flat" alt="attadasandeep2005" /> </p> -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=attadasandeep2005" alt="attadasandeep2005" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=attadasandeep2005&label=Profile%20views&color=0e75b6&style=flat" alt="attadasandeep2005" /> </p>
+
 
 
 - 🔭 I’m currently working on **3D parts for a humanoid robot, integrating them with hardware**
