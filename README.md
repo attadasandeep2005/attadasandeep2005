@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Attada Sandeep</h1>
+<h1 align="center">Hi 👋, I'm Attada Sandeep </h1>
 <h3 align="center">"Aspiring robot overlord with a passion for tinkering—designing in CATIA, coding in Python & C++, and wrangling hardware with Arduino and Raspberry Pi. When I'm not breaking circuits and debugging code, you can find me building smart systems, crafting PCBs, or simulating robots in Gazebo. All fueled by caffeine and curiosity, with a dash of 'it works on my machine' mentality."</h3>
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmFvOHFmd2VyY2JpcXpvM3JiM3IwNDIwOHFtNHM2dnRtd2RjcGlucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif" width="300px" align="right" alt="">
